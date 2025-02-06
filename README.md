@@ -38,7 +38,8 @@ This is a continuation of the [osTicket: Post Installation Configuration](https:
 ![Image](https://github.com/user-attachments/assets/ccdaf7d6-9a63-4b19-a844-0a9964e14752)
 <h2>osTicket: Creating and Working Tickets is now Complete!</h2>
 
-<b> We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication! </b>
+<b> We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement)
+
 <br />
 <br />
 </p>
