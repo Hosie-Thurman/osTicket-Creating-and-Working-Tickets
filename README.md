@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/tUnlhRz.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
+ 
+![Image](https://github.com/user-attachments/assets/7e66b861-ba78-44a7-964c-f5b6a3e18840)
 <br />
 
 <h1>osTicket: Creating and Working Tickets</h1>
