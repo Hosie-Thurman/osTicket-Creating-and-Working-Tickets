@@ -21,30 +21,21 @@ This is a continuation of the [osTicket: Post Installation Configuration](https:
 
 <h2>Project Walk-through:</h2>
 
-![Image](https://github.com/user-attachments/assets/3a6686e4-ec47-4095-ab91-f66440fa11fa)
+![Image](https://github.com/user-attachments/assets/0de2f17c-29e7-4727-8606-62e9e6c0e8a9)
 
-![Image](https://github.com/user-attachments/assets/6f585695-f943-411e-a206-cd0dba85e635)
+![Image](https://github.com/user-attachments/assets/462e11ab-0712-417e-bfff-d49f586c16d9)
 
-![Image](https://github.com/user-attachments/assets/1c7fd111-026c-46de-971f-a00f0e5b3342)
+![Image](https://github.com/user-attachments/assets/7cd6b086-9027-4ecb-9e56-668e86c3d2d4)
 
-![Image](https://github.com/user-attachments/assets/6bcc54a9-1623-456d-b65a-9b5df9bed6bc)
+![Image](https://github.com/user-attachments/assets/a7d15ef6-2e31-4a90-a4d1-d4f2a7012f63)
 
-![Image](https://github.com/user-attachments/assets/4029610d-797d-48e3-9d68-08a4f887bd91)
+![Image](https://github.com/user-attachments/assets/f9e6eb85-0314-4cf3-b6e1-be790e040997)
 
-![Image](https://github.com/user-attachments/assets/4850dd6a-4968-48e6-8b7c-6a03cdc6182b)
+![Image](https://github.com/user-attachments/assets/2362d281-5369-49d3-8fee-e866f9871b8a)
 
-![Image](https://github.com/user-attachments/assets/a4c5a881-53c5-4b93-9116-80247d3134d4)
+![Image](https://github.com/user-attachments/assets/e9077a10-688e-4fc5-ac25-8acb835afbd1)
 
-![Image](https://github.com/user-attachments/assets/977ac903-759c-4a1b-8a38-13ebd96dbb77)
-
-![Image](https://github.com/user-attachments/assets/a4a1f5eb-29c0-4847-8e88-20283aacc308)
-
-![Image](https://github.com/user-attachments/assets/397f407d-47dc-492c-9193-6d85042c91f9)
-
-![Image](https://github.com/user-attachments/assets/a018862f-fb75-484e-a9c0-6b9f17ef4397)
-
-![Image](https://github.com/user-attachments/assets/ce79f678-1157-4277-a8b2-b6bc15d83f16)
-
+![Image](https://github.com/user-attachments/assets/ccdaf7d6-9a63-4b19-a844-0a9964e14752)
 <h2>osTicket: Creating and Working Tickets is now Complete!</h2>
 
 <b> We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication! </b>
