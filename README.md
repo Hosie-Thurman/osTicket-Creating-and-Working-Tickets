@@ -21,72 +21,29 @@ This is a continuation of the [osTicket: Post Installation Configuration](https:
 
 <h2>Project Walk-through:</h2>
 
-<p align="center">
-First, I will navigate to the end user site of osTicket to be able to create a new ticket: <br/>
-<img src="https://i.imgur.com/KJiMJCt.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-I will open three new tickets and fill out the users information along with the technical issues:  <br/>
-<img src="https://i.imgur.com/NNkxqMh.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-<img src="https://i.imgur.com/3PG2u21.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-<img src="https://i.imgur.com/be7cLS4.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-Next, I will log in as an agent (worker) we created:  <br/>
-<img src="https://i.imgur.com/OQN9UEx.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-I can now see all the open tickets I created in the "Tickets" tab:  <br/>
-<img src="https://i.imgur.com/rMVO4Vh.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:  <br/>
-<img src="https://i.imgur.com/HzAHuH9.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-I can change the priority level on appropriate tickets by clicking the "Priority" section and can add a note for the change made:  <br/>
-<img src="https://i.imgur.com/5zHCxWa.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-To assign a ticket, click on "Unassigned" next to the "Assigned To" section and select an agent to assign this ticket to:  <br/>
-<img src="https://i.imgur.com/jBistCZ.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-I can also change the tickets SLA (Service Level Aggrement) of the ticket in the "SLA Plan" section:  <br/>
-<img src="https://i.imgur.com/wnQbU4T.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-Another option I have is to change the tickets department in the "Department" section:  <br/>
-<img src="https://i.imgur.com/Yg3aPgm.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-Looking further down I can see a thread of all of the changes made to the ticket:
-<img src="https://i.imgur.com/e3n5j2T.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-At the bottom I can post replies communicating updates of the ticket:  <br/>
-<img src="https://i.imgur.com/TGV2OUw.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-If I go back to see all the open tickets, I can see the changes I made to the ticket:  <br/>
-<img src="https://i.imgur.com/xCvfP6b.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-To resolve a ticket, I can select "Resolved" from the "Ticket Status" menu at the bottom of the ticket:
-<img src="https://i.imgur.com/4GuIshR.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-The resolved ticket will disappear from the open tickets tab and appear in the closed tickets tab:
-<img src="https://i.imgur.com/FwlbkJK.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
-<img src="https://i.imgur.com/tva9bvR.png" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
+![Image](https://github.com/user-attachments/assets/3a6686e4-ec47-4095-ab91-f66440fa11fa)
+
+![Image](https://github.com/user-attachments/assets/6f585695-f943-411e-a206-cd0dba85e635)
+
+![Image](https://github.com/user-attachments/assets/1c7fd111-026c-46de-971f-a00f0e5b3342)
+
+![Image](https://github.com/user-attachments/assets/6bcc54a9-1623-456d-b65a-9b5df9bed6bc)
+
+![Image](https://github.com/user-attachments/assets/4029610d-797d-48e3-9d68-08a4f887bd91)
+
+![Image](https://github.com/user-attachments/assets/4850dd6a-4968-48e6-8b7c-6a03cdc6182b)
+
+![Image](https://github.com/user-attachments/assets/a4c5a881-53c5-4b93-9116-80247d3134d4)
+
+![Image](https://github.com/user-attachments/assets/977ac903-759c-4a1b-8a38-13ebd96dbb77)
+
+![Image](https://github.com/user-attachments/assets/a4a1f5eb-29c0-4847-8e88-20283aacc308)
+
+![Image](https://github.com/user-attachments/assets/397f407d-47dc-492c-9193-6d85042c91f9)
+
+![Image](https://github.com/user-attachments/assets/a018862f-fb75-484e-a9c0-6b9f17ef4397)
+
+![Image](https://github.com/user-attachments/assets/ce79f678-1157-4277-a8b2-b6bc15d83f16)
 
 <h2>osTicket: Creating and Working Tickets is now Complete!</h2>
 
